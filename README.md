@@ -19,6 +19,11 @@ The DIEM-filtered counts can be downloaded from GEO under accession number
 The DIEM filtering scripts can be skipped and the code for clustering 
 can read in the matrices downloaded from GEO.
 
+## Alignment
+
+Although sequencing data is not available for the NAFLD-related HCC 
+data set, the alignment scripts are provided in `bin/align`.
+
 ## Analysis
 
 Set up the conda environment using the `bin/create_conda_envs.sh` and 
